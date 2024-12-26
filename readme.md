@@ -46,6 +46,8 @@ Here is a preview of the **Bambulab 4-in-1 Adapter Holder** that you can print a
 
 This image demonstrates how to install the magnets to ensure the adapter holder is securely attached to the backplate of the Bambu P1S/X1 printer.
 
+The hole size is D = 6.1mm and H = 3.4mm, while the magnet size is D = 6mm and H = 3mm. To ensure proper installation, the magnet should be aligned with the iron piece and pushed into the hole, ensuring that the surface of the magnet is flush with the surface of the model. This approach prevents the magnet from sinking too deep into the hole, which could lead to misalignment or improper magnetic performance.
+
 ## Assembly Instructions
 
 1. **Print the Holder**: Download the 3D model files from the repository and print them using your 3D printer.
