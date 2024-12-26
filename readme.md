@@ -14,6 +14,13 @@ This project provides 3D models for a **Bambulab 4-in-1 Adapter Holder** designe
 - **Convenient Movement**: Unlike fixed mounts, this solution allows you to move the adapter holder quickly and easily, without the hassle of screws or complicated installations.
 - **Close Fit to the Backplate**: The design ensures that the adapter holder stays as close as possible to the backplate, optimizing space while maintaining a secure fit.
 
+## Material Recommendation
+
+Since the snap-fit is oriented along the Z-axis, it is recommended to use at least PETG material for 3D printing. Otherwise, the snap-fit may lack sufficient strength and may break easily. Based on testing, the following materials have been evaluated:
+
+- [x] **Jayo PETG**: Suitable, with good strength; no issues with snap-fit durability.
+- [ ] **Caige PLA**: Not suitable, with insufficient strength; prone to breaking.
+
 ## Folder Structure
 
 This repository includes the following folder structure:
