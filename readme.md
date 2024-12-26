@@ -45,6 +45,8 @@ readme.zh.md       # readme in Chinese
 
 ### Preview of the Adapter Holder
 <img src="./assets/cover.jpg" width="300" alt="Adapter Holder Preview" />
+<img src="./assets/IMG_20241226_004644.jpg" width="300" alt="live shot 1" />
+<img src="./assets/IMG_20241226_004914.jpg" width="300" alt="live shot 2" />
 
 Here is a preview of the **Bambulab 4-in-1 Adapter Holder** that you can print and use with your Bambu P1S/X1 3D printer.
 

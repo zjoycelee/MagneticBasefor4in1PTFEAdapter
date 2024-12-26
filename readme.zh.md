@@ -43,6 +43,8 @@ readme.zh.md       # 当前readme文件
 
 ### 适配器支架预览
 <img src="./assets/cover.jpg" width="300" alt="适配器支架预览" />
+<img src="./assets/IMG_20241226_004644.jpg" width="300" alt="实拍图1" />
+<img src="./assets/IMG_20241226_004914.jpg" width="300" alt="实拍图2" />
 
 这是 **拓竹 P系五通** 的预览，您可以将其打印并用于 拓竹 P1S/X1 3D 打印机。
 
